@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\Kolo\Kolo\bin\Debug\Kolo.exe.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\Kolo\Kolo\bin\Debug\Kolo.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\Kolo\Kolo\bin\Debug\Kolo.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\Kolo\Kolo\obj\Debug\Kolo.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\Kolo\Kolo\obj\Debug\Kolo.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\Kolo\Kolo\obj\Debug\Kolo.pdb

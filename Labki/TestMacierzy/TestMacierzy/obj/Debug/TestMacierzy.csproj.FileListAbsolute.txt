@@ -1,0 +1,8 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\TestMacierzy\TestMacierzy\bin\Debug\TestMacierzy.exe.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\TestMacierzy\TestMacierzy\bin\Debug\TestMacierzy.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\TestMacierzy\TestMacierzy\bin\Debug\TestMacierzy.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\TestMacierzy\TestMacierzy\obj\Debug\TestMacierzy.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\TestMacierzy\TestMacierzy\obj\Debug\TestMacierzy.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\TestMacierzy\TestMacierzy\obj\Debug\TestMacierzy.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\TestMacierzy\TestMacierzy\bin\Debug\Macierze.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\TestMacierzy\TestMacierzy\bin\Debug\Macierze.pdb

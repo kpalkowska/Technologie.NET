@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\Instrumenty\Instrumenty\bin\Debug\Instrumenty.exe.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\Instrumenty\Instrumenty\bin\Debug\Instrumenty.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\Instrumenty\Instrumenty\bin\Debug\Instrumenty.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\Instrumenty\Instrumenty\obj\Debug\Instrumenty.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\Instrumenty\Instrumenty\obj\Debug\Instrumenty.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\Instrumenty\Instrumenty\obj\Debug\Instrumenty.pdb

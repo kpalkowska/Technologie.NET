@@ -1,0 +1,5 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\Osoby1\Osoby1\obj\Debug\Osoby.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\Osoby1\Osoby1\bin\Debug\Osoby1.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\Osoby1\Osoby1\bin\Debug\Osoby1.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\Osoby1\Osoby1\obj\Debug\Osoby1.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\Osoby1\Osoby1\obj\Debug\Osoby1.pdb

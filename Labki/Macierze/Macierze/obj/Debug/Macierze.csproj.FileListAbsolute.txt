@@ -1,0 +1,4 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\Macierze\Macierze\bin\Debug\Macierze.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\Macierze\Macierze\bin\Debug\Macierze.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\Macierze\Macierze\obj\Debug\Macierze.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\Macierze\Macierze\obj\Debug\Macierze.pdb

@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\TestListy\TestListy\bin\Debug\TestListy.exe.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\TestListy\TestListy\bin\Debug\TestListy.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\TestListy\TestListy\bin\Debug\TestListy.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\TestListy\TestListy\obj\Debug\TestListy.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\TestListy\TestListy\obj\Debug\TestListy.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\TestListy\TestListy\obj\Debug\TestListy.pdb

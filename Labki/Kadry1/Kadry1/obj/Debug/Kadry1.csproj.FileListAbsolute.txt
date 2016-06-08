@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\Kadry1\Kadry1\bin\Debug\Kadry1.exe.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\Kadry1\Kadry1\bin\Debug\Kadry1.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\Kadry1\Kadry1\bin\Debug\Kadry1.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\Kadry1\Kadry1\obj\Debug\Kadry1.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\Kadry1\Kadry1\obj\Debug\Kadry1.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\Kadry1\Kadry1\obj\Debug\Kadry1.pdb

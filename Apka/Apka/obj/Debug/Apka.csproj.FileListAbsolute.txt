@@ -1,0 +1,14 @@
+c:\users\admin\documents\visual studio 2013\Projects\Apka\Apka\bin\Debug\Apka.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Apka\Apka\bin\Debug\Apka.exe
+c:\users\admin\documents\visual studio 2013\Projects\Apka\Apka\bin\Debug\Apka.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Apka\Apka\obj\Debug\Apka.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Apka\Apka\obj\Debug\Apka.Album.resources
+c:\users\admin\documents\visual studio 2013\Projects\Apka\Apka\obj\Debug\Apka.Artysta.resources
+c:\users\admin\documents\visual studio 2013\Projects\Apka\Apka\obj\Debug\Apka.Start.resources
+c:\users\admin\documents\visual studio 2013\Projects\Apka\Apka\obj\Debug\Apka.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Apka\Apka\obj\Debug\Apka.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Apka\Apka\obj\Debug\Apka.exe
+c:\users\admin\documents\visual studio 2013\Projects\Apka\Apka\obj\Debug\Apka.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Apka\Apka\obj\Debug\Apka.Piosenka.resources
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Apka\Apka\obj\Debug\Apka.Wytwornia.resources
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Apka\Apka\obj\Debug\Apka.Albumy_artystow.resources

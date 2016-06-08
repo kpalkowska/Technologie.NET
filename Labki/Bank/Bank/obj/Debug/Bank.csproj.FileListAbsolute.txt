@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\Bank\Bank\obj\Debug\Bank.pdb

@@ -1,0 +1,5 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\TestListy1\TestListy1\bin\Debug\TestListy1.exe.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\TestListy1\TestListy1\bin\Debug\TestListy1.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\TestListy1\TestListy1\bin\Debug\TestListy1.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\TestListy1\TestListy1\obj\Debug\TestListy1.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\TestListy1\TestListy1\obj\Debug\TestListy1.pdb

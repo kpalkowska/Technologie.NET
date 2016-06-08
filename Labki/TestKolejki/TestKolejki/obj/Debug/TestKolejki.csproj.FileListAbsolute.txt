@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\TestKolejki\TestKolejki\bin\Debug\TestKolejki.exe.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\TestKolejki\TestKolejki\obj\Debug\TestKolejki.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\TestKolejki\TestKolejki\bin\Debug\TestKolejki.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\TestKolejki\TestKolejki\bin\Debug\TestKolejki.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\TestKolejki\TestKolejki\obj\Debug\TestKolejki.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Labki\TestKolejki\TestKolejki\obj\Debug\TestKolejki.pdb
